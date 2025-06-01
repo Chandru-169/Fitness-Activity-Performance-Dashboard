@@ -4,6 +4,11 @@ https://github.com/user-attachments/assets/7c55b232-f907-421e-9234-86c1a005fc85
 
 **Intrduction:** This project focuses building a comprehensive **Power BI dashboard** to analyze personal fitness data from Google Fit, aiming to provide actionable insights. It begins with importing and cleaning the data, followed by generating calculated columns and DAX measures to track key metrics like steps, distance, calories, and active minutes. Interactive visuals such as charts and slicers enable dynamic exploration of trends across days, weeks, and months. The dashboard includes detailed daily tracking, weekly and monthly trend analysis, and highlights goal achievement status. Analytical insights reveal performance patterns and correlations, while personalized suggestions help improve consistency and effectiveness in fitness routines.
 
+## Power Point Presentation
+
+[Personal Fitness Activity Performance Dashboard.pptx](https://github.com/user-attachments/files/20540112/Personal.Fitness.Activity.Performance.Dashboard.pptx)
+
+
 ## Table of Contents
 
 1. Project Objective
