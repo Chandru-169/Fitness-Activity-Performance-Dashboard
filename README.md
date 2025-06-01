@@ -70,17 +70,6 @@ https://github.com/user-attachments/assets/7c55b232-f907-421e-9234-86c1a005fc85
 2. **Summary KPIs**: Distance Target %, Minutes Target %, Steps Target %, Calories Target %. This helps to understand the target achieved for each activity for the selected year-month combination
 
 
-## Dashboard Screenshots
-
-  ![image](https://github.com/user-attachments/assets/9392fdd6-14c8-4e58-a33b-65615e7c9d00)
-
-![image](https://github.com/user-attachments/assets/20ea86d5-74db-461c-bb5e-b759460dc584)
-
-![image](https://github.com/user-attachments/assets/001b91ce-7cb1-4846-ae81-a80b482b6856)
-
-![image](https://github.com/user-attachments/assets/f5f4a903-96b3-4dd6-9a70-9f61c7477471)
-
-
 ## Summary of Analytical Insights from the Dashboard
 
 ![image](https://github.com/user-attachments/assets/d8465727-33bd-4ab1-a00d-e41efff64741)
@@ -98,4 +87,14 @@ https://github.com/user-attachments/assets/7c55b232-f907-421e-9234-86c1a005fc85
 
   **5. Set SMART Goals:** Walk 3 km daily, Cover 4000 Steps daily, Burn 5000 Cal weekly
 
+
+## Appendix: Dashboard Screenshots
+
+  ![image](https://github.com/user-attachments/assets/9392fdd6-14c8-4e58-a33b-65615e7c9d00)
+
+![image](https://github.com/user-attachments/assets/20ea86d5-74db-461c-bb5e-b759460dc584)
+
+![image](https://github.com/user-attachments/assets/001b91ce-7cb1-4846-ae81-a80b482b6856)
+
+![image](https://github.com/user-attachments/assets/f5f4a903-96b3-4dd6-9a70-9f61c7477471)
   
